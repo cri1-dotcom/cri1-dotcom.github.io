@@ -50,9 +50,9 @@ round-avatar: true
 social-network-links:
  # email: cri1@williams.edu
  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: cri1-dotcom
-  instagram: cooperiacobelli
-  whatsapp: +14357299720
+ # github: cri1-dotcom
+ # instagram: cooperiacobelli
+ # whatsapp: +14357299720
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
