@@ -13,4 +13,4 @@ Did you know that there are infinite ways to combine textiles and technology? I 
 
 ### My story
 
-Here is a bit more about me!([My Instagram](https://www.instagram.com/cooperiacobelli/)) 
+Here is a bit more about me! ([My Instagram](https://www.instagram.com/cooperiacobelli/)) 
