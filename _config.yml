@@ -22,7 +22,7 @@ author: Cooper Iacobelli
 navbar-links:
   About Me: "aboutme"
   Posts: "posts"
-  Resources:
+#  Resources:
 
 ################
 # --- Logo --- #
@@ -78,6 +78,10 @@ social-network-links:
 #  itchio: yourname
 #  untappd: yourname
    strava: cooperiacobelli
+   email: cri1@williams.edu
+   github: cri1-dotcom
+   instagram: cooperiacobelli
+   whatsapp: +14357299720
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
