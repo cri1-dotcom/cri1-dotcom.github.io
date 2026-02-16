@@ -21,7 +21,7 @@ author: Cooper Iacobelli
 
 navbar-links:
   About Me: "aboutme"
-  Posts: "posts"
+  #Posts: "posts"
 #  Resources:
 
 ################
