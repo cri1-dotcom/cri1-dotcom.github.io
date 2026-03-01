@@ -12,3 +12,4 @@ Here is my circuit plushy! It is a cute little stuffed animal that can light up 
 ![back](https://cri1-dotcom.github.io/assets/img/IMG_18112.HEIC)
 ![in the wild](https://cri1-dotcom.github.io/assets/img/IMG_18032.HEIC)
 ![proto](https://cri1-dotcom.github.io/assets/img/IMG_1798.HEIC)
+![paper](https://cri1-dotcom.github.io/assets/img/IMG_1812.HEIC)
