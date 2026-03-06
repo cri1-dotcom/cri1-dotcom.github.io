@@ -6,7 +6,9 @@ tags: [My Switches]
 author: Cooper Iacobelli
 ---
 
-Here is my homemade switches! It is a circuit that utilizes a conductive patch as its switch and a satin stitch as a button! A hint for others, find a thimble, the conductive patch is stiff.
+Here is my homemade switches! It is a circuit that utilizes a conductive patch as its switch and a satin stitch as a button! A hint for others, find a thimble, the conductive patch is stiff. 
+
+I also ended up using my needle as I lost the paper clip!
 
 ![front](https://cri1-dotcom.github.io/assets/img/HS6.jpeg)
 ![back](https://cri1-dotcom.github.io/assets/img/HS8.jpeg)
