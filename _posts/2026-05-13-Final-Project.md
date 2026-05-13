@@ -12,17 +12,17 @@ Video Link to Final Product: https://drive.google.com/file/d/1baNYfNt7gf5g33LtX6
 
 Materials Used:
 2 Sheets of Felt, One stiff, one flexible.
-Conductive Thread
-2 White LED's
-Arduino
-Arduino Switch
-Arduino Temp Sensor
-Battery
+Conductive Thread,
+2 White LED's,
+Arduino,
+Arduino Switch,
+Arduino Temp Sensor,
+Battery.
 
 3 Tips to My Past Self:
-  Arrays Are the Best
-  Make sure you make the right pin the right color! ie. 12=R, 13=G, 14=B
-  Print statements are your best friend, they will help identify all of your silly syntax problems
+  1. Arrays Are the Best!
+  2. Make sure you make the right pin the right color! ie. 12=R, 13=G, 14=B,
+  3. Print statements are your best friend, they will help identify all of your silly syntax problems
   
 ![..](https://cri1-dotcom.github.io/assets/img/waxfront.jpeg)
 ![..](https://cri1-dotcom.github.io/assets/img/waxwrong.jpeg)
