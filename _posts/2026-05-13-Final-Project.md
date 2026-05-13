@@ -10,8 +10,6 @@ Here is my final project. My project is a device that simplifies the process of 
 
 Video Link to Final Product: https://drive.google.com/file/d/1baNYfNt7gf5g33LtX6kc9V1eb2PHJJir/view?usp=sharing
 
-https://drive.google.com/uc?export=download&id=1baNYfNt7gf5g33LtX6kc9V1eb2PHJJir
-
 Materials Used:
 2 Sheets of Felt, One stiff, one flexible.
 Conductive Thread,
