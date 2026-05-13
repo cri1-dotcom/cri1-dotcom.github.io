@@ -8,8 +8,9 @@ author: Cooper Iacobelli
 
 Here is my final project. My project is a device that simplifies the process of selecting a wax type for a given race day. Ski wax changes drastically based on the tempature. The on board RGBLED  changes colors in relation to different tempature ranges which relate to different types (colors) of wax. The attached LED's will distinguish whether or not the tempature is on the high or low end of the range and is this overlapping with the wax above or below the one displayed by the on board RGB.
 
-Video Link to Final Product: https://drive.google.com/file/d/1baNYfNt7gf5g33LtX6kc9V1eb2PHJJir/view?usp=sharing
-
+<a href="[https://drive.google.com/uc?export=download&id=1baNYfNt7gf5g33LtX6kc9V1eb2PHJJir](https://drive.google.com/file/d/1baNYfNt7gf5g33LtX6kc9V1eb2PHJJir/view?usp=sharing)" style="display:inline-block; padding:12px 24px; background:#111; color:#fff; border-radius:8px; text-decoration:none; font-weight:600;">
+  Video Link to Final Product
+</a>
 Materials Used:
 2 Sheets of Felt, One stiff, one flexible.
 Conductive Thread,
