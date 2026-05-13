@@ -17,6 +17,11 @@ Arduino Switch
 Arduino Temp Sensor
 Battery
 
+3 Tips to My Past Self:
+  Arrays Are the Best
+  Make sure you make the right pin the right color! ie. 12=R, 13=G, 14=B
+  Print statements are your best friend, they will help identify all of your silly syntax problems
+  
 ![..](https://cri1-dotcom.github.io/assets/img/waxfront.jpeg)
 ![..](https://cri1-dotcom.github.io/assets/img/waxwrong.jpeg)
 ![..](https://cri1-dotcom.github.io/assets/img/waxclips.jpeg)
